@@ -79,7 +79,7 @@
            - both. The version is great for humans, the digest great for
            - pinning the version properly
           -->
-    <quarkus.jib.base-jvm-image>registry.access.redhat.com/ubi10/openjdk-21-runtime:1.24-16@sha256:23634568e0a325e45feb8b6bf744efaf2212db9a373f6b83f5b2811d0d4c1f74</quarkus.jib.base-jvm-image>
+    <quarkus.jib.base-jvm-image>registry.access.redhat.com/ubi10/openjdk-21-runtime:1.24-20@sha256:c1e7e1d56e36b5a88a1c2931bad9c9e5226695238f8b3c814648de10aaf3afc9</quarkus.jib.base-jvm-image>
     <tagSuffix/>
   </properties>
 
